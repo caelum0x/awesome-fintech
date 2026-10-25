@@ -133,6 +133,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Xendit](https://www.xendit.co/) [B2B, [@xendit_co](https://twitter.com/xendit_co), [LinkedIn](https://www.linkedin.com/company/xendit/), [Careers](https://www.xendit.co/en/careers/job-opening/)] - Xendit helps businesses accept payments and send money - simply, at speed, with great customer service.
 - [Adaptive](https://www.adaptive.build/) [B2B, [@AdaptiveBuilds](https://x.com/AdaptiveBuilds), [LinkedIn](https://www.linkedin.com/company/adaptiverealestate/), [Careers](https://www.adaptive.build/careers)] - AI-native project accounting platform for construction that automates job costing, bill approvals, and ACH vendor payments, connecting jobsite activity to the financial books.
 - [SpotOn](https://www.spoton.com/) [B2SMB, [@SpotOn](https://x.com/SpotOn), [LinkedIn](https://www.linkedin.com/company/spoton/), [Careers](https://www.spoton.com/careers/)] - Cloud-based point-of-sale and payments platform for restaurants and small businesses, bundling payment processing with marketing, loyalty, reporting, and operations management tools.
+- [SettleKit](https://settlekit-web.onrender.com) [B2B] - Open source USDC checkout: share a link, buyers pay on Solana, Base, Ethereum or Arbitrum, no merchant of record or card fees. Also supports x402 agent-to-agent payments.
 
 ## RegTech
 
